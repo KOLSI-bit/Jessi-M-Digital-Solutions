@@ -1,8 +1,5 @@
-Thank you for using our template!
+Jessi M Digital Solutions website files.
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+Contact: mamsibi101@gmail.com
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+This site uses the Videograph theme as a base and has been customised for Jessi M Digital Solutions.
