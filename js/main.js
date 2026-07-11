@@ -1,10 +1,8 @@
 /*  ---------------------------------------------------
-    Template Name: Dreams
-    Description: Dreams wedding template
-    Author: Colorib
-    Author URI: https://colorlib.com/
+    Template Name: Videograph (theme)
+    Description: Customised for Jessi M Digital Solutions
+    Author: Jessi M Digital Solutions
     Version: 1.0
-    Created: Colorib
 ---------------------------------------------------------  */
 
 'use strict';
